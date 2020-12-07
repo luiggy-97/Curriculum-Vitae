@@ -1,0 +1,17 @@
+.img{
+height: 230px;
+width: 250px;
+border-radius: 55%;
+display: block;
+margin: auto;
+border:1px solid #fff;
+bottom:-5px;
+position:relative;
+}
+
+ion-content.fondo{
+    /*cambia el fondo de la pagina*/
+    --background: url(../../assets/img/fondo3.jpg) 0 0/100% 100% no-repeat;
+}
+    
+
